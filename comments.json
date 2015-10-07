@@ -4,6 +4,10 @@
         "text": "Hey there!"
     },
     {
+        "author": "Chris Colborne",
+        "text": "How's it goin?"
+    },
+    {
         "author": "Paul O’Shannessy",
         "text": "React is *great*!"
     }
